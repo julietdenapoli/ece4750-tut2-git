@@ -2,10 +2,4 @@ apple
 mango
 banana
 peach
-lemon
-<<<<<<< HEAD
-peach
-=======
-banana
-lemon
->>>>>>> ecf0d3b2e1f564912ddd737bb9e309eab83420d0
+lem
